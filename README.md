@@ -1,0 +1,1 @@
+This project demonstrates the use of Power BI to analyze and visualize sales data for Blinkit – India’s Last Minutes App. The dashboard transforms raw transactional data into actionable business insights, enabling decision‑makers to track performance, identify trends, and optimize operations.
